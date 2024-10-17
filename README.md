@@ -12,3 +12,5 @@
 - https://lsudigitalart.github.io/2210hw9-EHargis2137/
 - https://lsudigitalart.github.io/2210hw9-YvieBoBeefy/
 - https://lsudigitalart.github.io/2210hw9-Mayor-Cam/
+
+2024
